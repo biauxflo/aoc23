@@ -1,0 +1,3 @@
+[submodule "aoc_day1"]
+	path = aoc_day1
+	url = git@github.com:biauxflo/aoc_day1.git
